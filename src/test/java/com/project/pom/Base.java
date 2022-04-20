@@ -40,13 +40,13 @@ public class Base {
 	}
 	
 	public void type(String inputText, By locator) {
-		driver.findElements(locator).sendKeys(inputText);
+		driver.findElement(locator).sendKeys(inputText);
 	}
 	
 	public void click(By locator) {
 		driver.findElement(locator).click();
 	}
-	
+	 
 	public Boolean isDisplayed(By locator) {
 		try {
 			return driver.findElement(locator).isDisplayed();
