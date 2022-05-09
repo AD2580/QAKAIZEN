@@ -1,0 +1,20 @@
+{
+	"userlogins": [
+		{
+			"username": "kaizen@automation1.com",
+			"password": "Kaizen1"
+		},
+		{
+			"username": "kaizen@automation2.com",
+			"password": "Kaizen1"
+		},
+		{
+			"username": "kaizen@automation3.com",
+			"password": "Kaizen1"
+		},
+		{
+			"username": "kaizen@automation4.com",
+			"password": "Kaizen1"
+		}
+	]
+}
